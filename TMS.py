@@ -151,6 +151,7 @@ def pre_date(yr):
         
         re_TMS.to_csv("C:/Users/Airgroup-2/Desktop/{yr}_TMS/{yr}_final_2/{i}".format(yr=yr, i=i), encoding='cp949', index = False)
 # edit test
+# third edit test in VS CODE
         
         
 init_codename(2019)
