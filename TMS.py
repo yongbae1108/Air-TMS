@@ -150,7 +150,9 @@ def pre_date(yr):
         re_TMS["측정소명"] = name[0]
         
         re_TMS.to_csv("C:/Users/Airgroup-2/Desktop/{yr}_TMS/{yr}_final_2/{i}".format(yr=yr, i=i), encoding='cp949', index = False)
-
+# edit test
+        
+        
 init_codename(2019)
 #make_annual_file(2019)
 #make_annual_file_meteo(2019)
