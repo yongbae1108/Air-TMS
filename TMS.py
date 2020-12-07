@@ -1,5 +1,7 @@
 #-*- coding: utf8 -*-
 
+# Hi there!
+
 import csv
 import os
 import pandas as pd
